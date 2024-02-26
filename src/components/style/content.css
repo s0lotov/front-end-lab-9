@@ -1,0 +1,10 @@
+.content {
+    width: 50%;
+    border: 1px solid red;
+    margin-left: 160px;
+    padding: 16px;
+} 
+.dog-pikcha img {
+    max-width: 200px;
+    max-height: 300px;
+}
